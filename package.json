@@ -14,9 +14,9 @@
     "posttest": "npm run lint"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240815.0",
+    "@cloudflare/workers-types": "^4.20241011.0",
     "typescript": "~5.2.0",
-    "wrangler": "^3.72.0",
+    "wrangler": "^3.81.0",
     "gts": "^5.2.0",
     "@types/node": "20.8.2"
   },
